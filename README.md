@@ -1,7 +1,6 @@
-# KnightsOfData_JC_DS_VL_01_FinalProject
 
 # :tropical_fish:Churn Prediction and Analysis:fish:
-![churnfish](https://github.com/PurwadhikaDev/KnightsOfData_JC_DS_VL_01_FinalProject/blob/master/images/churnFish.png)
+![churnfish](https://github.com/edosept/Churn-Analysis-and-Prediction/blob/main/images/churnFish.png)
 Customer churn mengacu pada hilangnya klien atau pelanggan yang sudah ada.<br>
 Dari analysis ini, kita bisa mengidentifikasi user yang cenderung akan berhenti menggunakan aplikasi ecommerce dan meninggalkan perusahaan.
 
@@ -40,7 +39,7 @@ maka kita harus berusaha untuk memuaskan setiap user dengan karakteristiknya mas
 * Value : hasil yang ingin dicapai dari penggunaan model machine learning ini adalah meningkatnya revenue dari perusahaan dan meminimalisir kehilangan user dalam aplikasi kita.
 
 # Conclusion EDA
-![EDA](https://github.com/PurwadhikaDev/KnightsOfData_JC_DS_VL_01_FinalProject/blob/master/images/edaChurn.png)
+![EDA](https://github.com/edosept/Churn-Analysis-and-Prediction/blob/main/images/edaChurn.png)
 * Dari hasil observasi, customer yang churn sekitar 16%, sedangkan yang tidak churn sekitar 83%.
 * Semakin lama Tenur, maka kemungkinan untuk Churn berkurang. Pengguna baru memiliki kecenderungan untuk Churn lebih besar. Pengguna dengan Tenure 1 tahun memiliki kecenderungan Churn hampir 20% di banding pengguna di tahun ke 2 yang kurang dari 10%.
 * Persentase Churn pelanggan complain 30%.
@@ -54,9 +53,9 @@ Terjadi kenaikan signifikan pada jarak 15km, 19km, dan juga 31km. Semakin jauh j
 
 # Conclusion Model
 ### Feature Importance
-![feature importance](https://github.com/PurwadhikaDev/KnightsOfData_JC_DS_VL_01_FinalProject/blob/master/images/Feature%20Importance.png)
+![feature importance](https://github.com/edosept/Churn-Analysis-and-Prediction/blob/main/images/Feature%20Importance.png)
 ### Explain the model's predictions using SHAP
-![shapValue](https://github.com/PurwadhikaDev/KnightsOfData_JC_DS_VL_01_FinalProject/blob/master/images/SHAPchurn.png)
+![shapValue](https://github.com/edosept/Churn-Analysis-and-Prediction/blob/main/images/SHAPchurn.png)
 1. _Tenure_
 Semakin singkat berlangganan potensi churn semakin meningkat
 2. _Complain_
